@@ -2,7 +2,7 @@
 
 int multiple(int x, int y);
 
-void main()
+void mainy()
 {
 	int x;
 	int y;
